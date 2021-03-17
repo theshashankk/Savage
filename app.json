@@ -1,5 +1,5 @@
 {
-      "name": "SaitamaRobot",
+      "name": "SavageRobot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "Saitama"
       ],   
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
+   "repository": "https://github.com/theshashankk/Savage",
    "addons": [
       {
          "options": {
@@ -49,7 +49,7 @@
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
-         "required": true,
+         "required": false,
          "value": "MyAwesomeSupportGroupGoesHere"
       },
       "EVENT_LOGS": {
